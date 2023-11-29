@@ -333,3 +333,13 @@ header {
 .feedback-submit:active {
   box-shadow: 7px 7px 7px 0px #06B486 inset;
 }
+
+.footer {
+  font-family: Unbounded;
+  height: 50px;
+  border: 2px solid;
+  background-color: #05CF9A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
